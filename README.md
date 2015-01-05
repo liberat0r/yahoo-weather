@@ -9,7 +9,6 @@ __Classes__
 - .js-date-container client date updated with a timer (is in the JS template)
 
 __Example__
-
 ```
 <div class="weather-box js-yahoo-weather">
 </div>
